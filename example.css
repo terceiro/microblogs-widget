@@ -1,0 +1,21 @@
+.identica-container {
+  border: 1px solid #888a85;
+}
+
+.identica-post  {
+  font-size: 10px;
+  padding: 2px;
+  border-bottom: 1px solid #888a85;
+}
+.identica-post-date {
+  margin-top: 4px;
+  display: block;
+  font-style: italic;
+}
+.identica-title {
+  background: black;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 4px;
+}

@@ -1,6 +1,9 @@
 body {
-  background: url(red-stripes.png);
   font-family: sans-serif;
+}
+
+.stripes {
+  background: url(red-stripes.png);
 }
 
 .identica-title {
@@ -21,6 +24,7 @@ body {
   background: url(transparency.png);
 }
 
-.identica-post a {
+a {
   color: white;
+  text-shadow: black 1px 1px 1px;
 }

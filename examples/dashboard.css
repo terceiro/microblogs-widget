@@ -1,0 +1,26 @@
+body {
+  background: url(red-stripes.png);
+  font-family: sans-serif;
+}
+
+.identica-title {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.identica-post {
+  border: 2px solid #400000;
+  -moz-border-radius: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: white;
+  text-shadow: black 1px 1px 1px;
+  background: url(transparency.png);
+}
+
+.identica-post a {
+  color: white;
+}
